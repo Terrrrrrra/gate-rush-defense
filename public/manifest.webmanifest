@@ -1,0 +1,19 @@
+{
+  "name": "Gate Rush Defense",
+  "short_name": "Gate Rush",
+  "description": "병력을 증식시켜 적 기지를 무너뜨리는 3D 하이퍼캐주얼 디펜스 게임",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "portrait",
+  "background_color": "#8fd3f4",
+  "theme_color": "#4aa8ff",
+  "categories": ["games"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
